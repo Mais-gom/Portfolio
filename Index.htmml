@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .box {
+            background: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>My Portfolio</h1>
+<p>Hello, my name is Asayel</p>
+
+<div class="box">
+    <h2>Project 1</h2>
+    <p>Simple HTML page</p>
+</div>
+
+<div class="box">
+    <h2>Project 2</h2>
+    <p>Form using HTML</p>
+</div>
+
+</body>
+</html>
